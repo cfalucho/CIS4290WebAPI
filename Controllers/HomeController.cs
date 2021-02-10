@@ -15,7 +15,7 @@ namespace CIS4290.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Testing. This is a Web API testing github";
 
             return View();
         }
