@@ -15,7 +15,7 @@ namespace CIS4290.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "testing v2";
+            ViewBag.Message = "testing v3";
 
             return View();
         }
