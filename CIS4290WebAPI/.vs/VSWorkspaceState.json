@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\eCommerceAPI",
+    "\\eCommerceAPI\\App_Start",
+    "\\eCommerceAPI\\Content",
+    "\\eCommerceAPI\\Controllers",
+    "\\eCommerceAPI\\Scripts",
+    "\\eCommerceAPI\\Views"
+  ],
+  "SelectedNode": "\\eCommerceAPI\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

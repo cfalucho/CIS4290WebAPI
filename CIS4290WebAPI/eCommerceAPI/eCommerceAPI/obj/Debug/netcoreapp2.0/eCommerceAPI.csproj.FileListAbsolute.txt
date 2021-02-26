@@ -1,0 +1,59 @@
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.deps.json
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.json
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.dev.json
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csprojResolveAssemblyReference.cache
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfoInputs.cache
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfo.cs
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\h\Documents\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.deps.json
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.json
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.dev.json
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\Ryan\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.deps.json
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.json
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.dev.json
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csprojResolveAssemblyReference.cache
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfoInputs.cache
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfo.cs
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\drewh\source\repos\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.deps.json
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.json
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.dev.json
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csprojResolveAssemblyReference.cache
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfoInputs.cache
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfo.cs
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\DarkSid3ofTh3Sun\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.deps.json
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.json
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.dev.json
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csprojAssemblyReference.cache
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfoInputs.cache
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfo.cs
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.pdb
