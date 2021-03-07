@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\inetpub\\wwwroot\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj": {}
+    "C:\\Users\\kevvi\\source\\repos\\CIS4290WebAPI\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj": {}
   },
   "projects": {
-    "C:\\inetpub\\wwwroot\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj": {
+    "C:\\Users\\kevvi\\source\\repos\\CIS4290WebAPI\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\inetpub\\wwwroot\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj",
+        "projectUniqueName": "C:\\Users\\kevvi\\source\\repos\\CIS4290WebAPI\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj",
         "projectName": "eCommerceAPI",
-        "projectPath": "C:\\inetpub\\wwwroot\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj",
-        "packagesPath": "C:\\Users\\Johans M Acosta\\.nuget\\packages\\",
-        "outputPath": "C:\\inetpub\\wwwroot\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\obj\\",
+        "projectPath": "C:\\Users\\kevvi\\source\\repos\\CIS4290WebAPI\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\eCommerceAPI.csproj",
+        "packagesPath": "C:\\Users\\kevvi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevvi\\source\\repos\\CIS4290WebAPI\\CIS4290WebAPI\\eCommerceAPI\\eCommerceAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Johans M Acosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\kevvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.0"
@@ -65,7 +69,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

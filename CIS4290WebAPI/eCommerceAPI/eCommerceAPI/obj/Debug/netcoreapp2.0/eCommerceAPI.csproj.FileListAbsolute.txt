@@ -57,3 +57,16 @@ C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\
 C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfo.cs
 C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.dll
 C:\Users\Jon\Desktop\WebAPI\API Server Components\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.deps.json
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.json
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.runtimeconfig.dev.json
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\bin\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csprojAssemblyReference.cache
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfoInputs.cache
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.AssemblyInfo.cs
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.csproj.CoreCompileInputs.cache
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.dll
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.pdb
+C:\Users\kevvi\source\repos\CIS4290WebAPI\CIS4290WebAPI\eCommerceAPI\eCommerceAPI\obj\Debug\netcoreapp2.0\eCommerceAPI.genruntimeconfig.cache
